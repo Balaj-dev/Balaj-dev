@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity and AI.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Linkedin.
-- 📫 You could reach me using my Instagram Account https://www.instagram.com/balaj_mubeen
+- 📫 You could reach me by using my Instagram Account https://www.instagram.com/balaj_mubeen
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
