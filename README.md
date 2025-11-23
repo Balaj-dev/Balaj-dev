@@ -1,5 +1,3 @@
-## Hi there, My name is Balaj👋
+## Hi there,👋
 
-🔭 I’m currently working on polishing my skills.<br>
-🌱 I’m currently focusing on my basics.
-
+My name is @Balaj and I am currently studing CS , doing a diploma.
