@@ -1,3 +1,3 @@
 ## Hi there,
 
-My name is <b>Balaj</b> and I am currently studing CS , doing a diploma.
+My name is <a href="mbalajmubeen@gmail.com">Balaj</a> and I am currently studing CS , doing a diploma.
