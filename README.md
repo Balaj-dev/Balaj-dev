@@ -1,4 +1,5 @@
-## 👋 Hi, I’m Balaj
+## 👋 Hi, I’m <a href="mailto:mbalajmubeen@gmail.com">Balaj</a>
+
 
 🔐 Cybersecurity enthusiast | Google Cybersecurity Certified  
 🎓 DAE in ICT @ CTTI Pakistan  
