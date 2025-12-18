@@ -8,4 +8,4 @@ I build practical security-focused tools and explore how systems work at a low l
 
 🔗 **Portfolio:** [balaj.dev](https://Balaj-dev.github.io)  
 💼 **LinkedIn:** [Balaj_Mubeen](https://www.linkedin.com/in/malik-balaj-553242216/)  
-📸 **Instagram:** [Balah_Mubeen](https://www.instagram.com/balaj_mubeen/)
+📸 **Instagram:** [Balaj_Mubeen](https://www.instagram.com/balaj_mubeen/)
