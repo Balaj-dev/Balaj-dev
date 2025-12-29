@@ -3,7 +3,7 @@
 
 🔐 Cybersecurity enthusiast | Google Cybersecurity Certified  
 🎓 DAE in ICT @ CTTI Pakistan  
-💻 Python • Networking • Security Tools  
+💻 Python • Networking • Security 
 
 I build practical security-focused tools and explore how systems work at a low level — from networks and protocols to encryption and backend logic.
 
