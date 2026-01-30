@@ -5,7 +5,9 @@
 🎓 DAE in ICT @ CTTI Pakistan  
 💻 Python • Networking • Security 
 
-I build practical security-focused tools and explore how systems work at a low level — from networks and protocols to encryption and backend logic.
+Exploring systems, networking, and cybersecurity.
+Student focused on understanding how systems work beneath the surface.
+Learning through hands-on labs, analysis, and real-world experimentation.
 
 🔗 **Portfolio:** [Balaj_Mubeen](https://balaj-dev.github.io/) <br>
 💼 **LinkedIn:** [Balaj_Mubeen](https://www.linkedin.com/in/malik-balaj-553242216/)  
